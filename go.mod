@@ -1,4 +1,4 @@
-module github.com/sapcc/hugo-documentation-templater
+module github.com/jpmdm/hugo-documentation-templater
 
 go 1.20
 
